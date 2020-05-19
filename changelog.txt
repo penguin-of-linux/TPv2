@@ -24,3 +24,5 @@ Dreadnought:
 - Восстановил ванильную Assault Cannon (урон, точность, цена)
 - Восстановил ванильную Twin-Linked Lascannon (урон, точность, цена)
 - Twin-Linked Lascannon теперь требует т3
+Tempest:
+- Восстановлен ванильный полностью
