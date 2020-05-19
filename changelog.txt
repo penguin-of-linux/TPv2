@@ -17,4 +17,10 @@ Terminators:
 Chaplain:
 - Вернул ванильный Demoralize Busy time (2.23)
 Librarian:
-- Время действия Weaken Resolve увеличено до ванильного (40)
+- Время действия Weaken Resolve ability увеличено до ванильного (40)
+- Weaken Resolve ability НЕ лишает целевой отряд возможности использовать активные способности во время действия (НАДО ТЕСТИТЬ)
+- Weaken Resolve ability - восстановил время каста до ванильного
+Dreadnought:
+- Восстановил ванильную Assault Cannon (урон, точность, цена)
+- Восстановил ванильную Twin-Linked Lascannon (урон, точность, цена)
+- Twin-Linked Lascannon теперь требует т3
