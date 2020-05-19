@@ -1,0 +1,33 @@
+[global]
+UIName = TPv2
+Description = TPv2
+Playable = 1
+DllName = WXPMod
+ModFolder = TPv2
+ModVersion = 0.0.9
+
+;; //////////////////////////////////////////////////////////////////
+;; List of folders to map for this MOD 
+;; order is important - the first Archives registered will be scanned for files first
+;;DataFolder.1 = %LOCALE%\Data
+DataFolder.1 = Data
+
+;; //////////////////////////////////////////////////////////////////
+;; List of archives to load for this MOD 
+;; order is important - the first Archives registered will be scanned for files first
+ArchiveFile.1 = TPData
+
+
+;;DataFolder.1 = %LOCALE%\Data
+;;DataFolder.2 = Data
+;;DataFolder.3 = Data_Shared_Textures\%TEXTURE-LEVEL%
+;;DataFolder.4 = Data_Sound\%SOUND-LEVEL%
+;;DataFolder.5 = Data_Music
+;;DataFolder.6 = Data_Whm\%MODEL-LEVEL%
+
+;; //////////////////////////////////////////////////////////////////
+;; List of MODs that this MOD requires to work
+RequiredMod.1 = DXP2
+RequiredMod.2 = W40k
+
+
