@@ -1,3 +1,8 @@
+ОБЩЕЕ
+    - Добавлен новый тип брони - infantry_necron. 
+      Значение урона по умолчанию выставлено как по броне infantry_heavy_med (ванильная броня necron warrior)
+
+
 SPACE MARINE
 
     Skull Probe
